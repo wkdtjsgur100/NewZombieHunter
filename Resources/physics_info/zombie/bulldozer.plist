@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<!-- created with http://www.physicseditor.de -->
+
+<plist version="1.0">
+	<dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>1</integer>
+            <key>ptm_ratio</key>
+            <real>32</real>
+        </dict>
+        <key>bodies</key>
+		<dict>
+
+			<key>walk</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.3770,0.4478 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ 229.024,7.000 }</string>	
+								<string>{ 190.024,-5.000 }</string>	
+								<string>{ 231.024,-119.000 }</string>	
+								<string>{ 243.024,-50.000 }</string>
+							</array>
+							<array>	
+								<string>{ 139.024,87.000 }</string>	
+								<string>{ 122.024,90.000 }</string>	
+								<string>{ 75.024,96.000 }</string>	
+								<string>{ 143.024,62.000 }</string>
+							</array>
+							<array>	
+								<string>{ -182.976,-55.000 }</string>	
+								<string>{ -183.976,-65.000 }</string>	
+								<string>{ -174.976,-95.000 }</string>	
+								<string>{ -157.976,-110.000 }</string>	
+								<string>{ -176.976,-54.000 }</string>
+							</array>
+							<array>	
+								<string>{ 102.024,118.000 }</string>	
+								<string>{ 85.024,110.000 }</string>	
+								<string>{ 75.024,96.000 }</string>	
+								<string>{ 122.024,90.000 }</string>
+							</array>
+							<array>	
+								<string>{ 76.024,84.000 }</string>	
+								<string>{ 81.024,83.000 }</string>	
+								<string>{ 75.024,96.000 }</string>
+							</array>
+							<array>	
+								<string>{ 269.024,-49.000 }</string>	
+								<string>{ 243.024,-50.000 }</string>	
+								<string>{ 231.024,-119.000 }</string>	
+								<string>{ 304.024,-120.000 }</string>	
+								<string>{ 302.024,-107.000 }</string>
+							</array>
+							<array>	
+								<string>{ 143.024,62.000 }</string>	
+								<string>{ 75.024,96.000 }</string>	
+								<string>{ 81.024,83.000 }</string>	
+								<string>{ 216.024,-109.000 }</string>	
+								<string>{ 231.024,-119.000 }</string>	
+								<string>{ 190.024,-5.000 }</string>
+							</array>
+							<array>	
+								<string>{ -180.976,-47.000 }</string>	
+								<string>{ -176.976,-54.000 }</string>	
+								<string>{ -160.976,-20.000 }</string>
+							</array>
+							<array>	
+								<string>{ -176.976,-54.000 }</string>	
+								<string>{ -157.976,-110.000 }</string>	
+								<string>{ -147.976,-111.000 }</string>	
+								<string>{ 111.024,-111.000 }</string>	
+								<string>{ -160.976,-20.000 }</string>
+							</array>
+							<array>	
+								<string>{ -160.976,104.000 }</string>	
+								<string>{ -154.976,99.000 }</string>	
+								<string>{ 63.024,145.000 }</string>	
+								<string>{ -159.976,134.000 }</string>
+							</array>
+							<array>	
+								<string>{ -169.976,-5.000 }</string>	
+								<string>{ -160.976,-20.000 }</string>	
+								<string>{ 111.024,-111.000 }</string>	
+								<string>{ 133.024,-105.000 }</string>	
+								<string>{ -163.976,45.000 }</string>
+							</array>
+							<array>	
+								<string>{ -154.976,99.000 }</string>	
+								<string>{ -157.976,56.000 }</string>	
+								<string>{ 67.024,94.000 }</string>	
+								<string>{ 67.024,145.000 }</string>	
+								<string>{ 63.024,145.000 }</string>
+							</array>
+							<array>	
+								<string>{ 67.024,94.000 }</string>	
+								<string>{ -157.976,56.000 }</string>	
+								<string>{ -163.976,45.000 }</string>	
+								<string>{ 79.024,66.000 }</string>
+							</array>
+							<array>	
+								<string>{ 133.024,-105.000 }</string>	
+								<string>{ 194.024,-107.000 }</string>	
+								<string>{ 79.024,66.000 }</string>	
+								<string>{ -163.976,45.000 }</string>
+							</array>
+							<array>	
+								<string>{ 194.024,-107.000 }</string>	
+								<string>{ 216.024,-109.000 }</string>	
+								<string>{ 81.024,83.000 }</string>	
+								<string>{ 79.024,66.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</plist>
+
